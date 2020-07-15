@@ -1,4 +1,4 @@
 {
-  "firstName": {{userAttribute.firstName}},
+  
   "title": "hello"
 }
